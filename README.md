@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasGardberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my GitHub page, I'm Lukas!
+
+- 📖 M.Sc. Engineering Mathematics, Machine Intelligence, Lund University
+- 💘 Fascinated by ML, Data Engineering, and Music Production
+- 🧃 Excited to learn more about MLOps, data infrastructure, and contributing to open-source!
+- 🫐 Currently learning Go
+- 🌱 Feel free to check out my [website](https://lukasgardberg.github.io/)!
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasGardberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **LukasGardberg/lukasgardberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
